@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jes\u00FAsDavidLeguizamoV\\source\\repos\\@bibliotecaApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5EEC9BEB-8815-4A10-A9B9-6F3E13B32180}|@bibliotecaApi\\@bibliotecaApi.csproj|c:\\users\\jes\u00FAsdavidleguizamov\\source\\repos\\@bibliotecaapi\\@bibliotecaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EEC9BEB-8815-4A10-A9B9-6F3E13B32180}|@bibliotecaApi\\@bibliotecaApi.csproj|solutionrelative:@bibliotecaapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EEC9BEB-8815-4A10-A9B9-6F3E13B32180}|@bibliotecaApi\\@bibliotecaApi.csproj|c:\\users\\jes\u00FAsdavidleguizamov\\source\\repos\\@bibliotecaapi\\@bibliotecaapi\\bloqueapeticionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EEC9BEB-8815-4A10-A9B9-6F3E13B32180}|@bibliotecaApi\\@bibliotecaApi.csproj|solutionrelative:@bibliotecaapi\\bloqueapeticionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EEC9BEB-8815-4A10-A9B9-6F3E13B32180}|@bibliotecaApi\\@bibliotecaApi.csproj|c:\\users\\jes\u00FAsdavidleguizamov\\source\\repos\\@bibliotecaapi\\@bibliotecaapi\\logeapeticionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EEC9BEB-8815-4A10-A9B9-6F3E13B32180}|@bibliotecaApi\\@bibliotecaApi.csproj|solutionrelative:@bibliotecaapi\\logeapeticionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BloqueaPeticionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Jes\u00FAsDavidLeguizamoV\\source\\repos\\@bibliotecaApi\\@bibliotecaApi\\BloqueaPeticionMiddleware.cs",
+              "RelativeDocumentMoniker": "@bibliotecaApi\\BloqueaPeticionMiddleware.cs",
+              "ToolTip": "C:\\Users\\Jes\u00FAsDavidLeguizamoV\\source\\repos\\@bibliotecaApi\\@bibliotecaApi\\BloqueaPeticionMiddleware.cs*",
+              "RelativeToolTip": "@bibliotecaApi\\BloqueaPeticionMiddleware.cs*",
+              "ViewState": "AgIAABYAAAAAAAAAAAAYwBsAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T20:24:18.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LogeaPeticionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Jes\u00FAsDavidLeguizamoV\\source\\repos\\@bibliotecaApi\\@bibliotecaApi\\LogeaPeticionMiddleware.cs",
+              "RelativeDocumentMoniker": "@bibliotecaApi\\LogeaPeticionMiddleware.cs",
+              "ToolTip": "C:\\Users\\Jes\u00FAsDavidLeguizamoV\\source\\repos\\@bibliotecaApi\\@bibliotecaApi\\LogeaPeticionMiddleware.cs",
+              "RelativeToolTip": "@bibliotecaApi\\LogeaPeticionMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T20:13:29.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jes\u00FAsDavidLeguizamoV\\source\\repos\\@bibliotecaApi\\@bibliotecaApi\\Program.cs",
+              "RelativeDocumentMoniker": "@bibliotecaApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Jes\u00FAsDavidLeguizamoV\\source\\repos\\@bibliotecaApi\\@bibliotecaApi\\Program.cs*",
+              "RelativeToolTip": "@bibliotecaApi\\Program.cs*",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T14:21:44.194Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
